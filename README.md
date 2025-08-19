@@ -29,15 +29,15 @@ Soy un **desarrollador web de nivel medio** apasionado por la creación de la au
 
 ## 📂 Algunos proyectos  
 
-- 🔗 [Portafolio Personal](https://portafoliogabriel.x10.mx/)  
-- 🔗 [alexis.g.r.g](https://www.instagram.com/alexis.g.r.g/) – Cuenta personal de instagram para contacto 
-- 🔗 [Proyecto 2](#) – Breve descripción  
+- 🔗 [Portafolio Personal](https://portafoliogabriel.x10.mx/) – Portafolio con informacion personal y mejores contactos
+- 🔗 [LexyCrochet.web](https://lexy-crochet.web.app/) – Negocio personal de crochet
 
 ---
 
 ## 📫 Contacto  
 
-- ✉️ **Correo:** alexgrg.123.123@gmail.com 
+- ✉️ **Correo:** alexgrg.123.123@gmail.com
+- 🔗 [alexis.g.r.g](https://www.instagram.com/alexis.g.r.g/) – Cuenta personal de instagram para contacto 
 - 💼 [LinkedIn](#)  
 
 ---
