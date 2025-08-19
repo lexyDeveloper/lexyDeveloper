@@ -1,5 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy LexyDeveloper</h1>
 
+![Banner](marca.jpg)
+
 Soy un **desarrollador web de nivel medio** apasionado por la creación de la automatizacion de tareas, además de aplicaciones modernas, funcionales y con buenas prácticas de código. Me gusta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos que aporten valor.   
 
 ---
