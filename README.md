@@ -1,15 +1,6 @@
 # 👋 ¡Hola! Soy LexyDeveloper  
 
-Soy un **desarrollador web de nivel medio** apasionado por la creación de aplicaciones modernas, funcionales y con buenas prácticas de código. Me gusta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos que aporten valor.  
-
----
-
-## 🚀 Tecnologías y Herramientas  
-
-- 🌐 **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, TailwindCSS, Bootstrap  
-- ⚙️ **Backend:** Node.js, Express, PHP  
-- 🗄️ **Bases de datos:** MySQL, MongoDB  
-- 🛠️ **Otras herramientas:** Git, GitHub, VS Code, Postman, Figma  
+Soy un **desarrollador web de nivel medio** apasionado por la creación de la automatizacion de tareas, además de aplicaciones modernas, funcionales y con buenas prácticas de código. Me gusta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos que aporten valor.   
 
 ---
 
@@ -17,24 +8,33 @@ Soy un **desarrollador web de nivel medio** apasionado por la creación de aplic
 
 - 💡 Me considero una persona **curiosa** y en constante aprendizaje.  
 - 🔍 Enfocado en escribir código **limpio y mantenible**.  
-- 🤝 Abierto a colaborar en proyectos interesantes y de impacto.  
+- 🤝 Abierto a colaborar en proyectos interesantes y de impacto.
+- ✅ Aprendo con gran agilidad y avanzo en los proyectos aun con variedad de problemas  
 - 🎯 Objetivo: seguir creciendo como desarrollador y especializarme en **Full Stack Development**.  
+
+---
+
+## 🚀 Tecnologías y Herramientas  
+
+- 🌐 **Frontend:** HTML5, CSS3, JavaScript (ES6+), React  
+- ⚙️ **Backend:** Node.js, PHP  
+- 🗄️ **Bases de datos:** MySQL  
+- 🛠️ **Otras herramientas:** Git, GitHub, VS Code, VS Studio, intelij 
 
 ---
 
 ## 📂 Algunos proyectos  
 
-- 🔗 [Portafolio Personal](#) *(Agrega aquí tu portafolio si ya lo tienes)*  
-- 🔗 [Proyecto 1](#) – Breve descripción  
+- 🔗 [Portafolio Personal](https://portafoliogabriel.x10.mx/)  
+- 🔗 [alexis.g.r.g](https://www.instagram.com/alexis.g.r.g/) – Cuenta personal de instagram para contacto 
 - 🔗 [Proyecto 2](#) – Breve descripción  
 
 ---
 
 ## 📫 Contacto  
 
-- ✉️ **Correo:** tuemail@ejemplo.com  
+- ✉️ **Correo:** alexgrg.123.123@gmail.com 
 - 💼 [LinkedIn](#)  
-- 🐦 [Twitter](#)  
 
 ---
 
