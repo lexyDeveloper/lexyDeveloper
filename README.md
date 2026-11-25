@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy LexyDeveloper</h1>
+<h1 align="center">¡Hola! Soy LexyDeveloper</h1>
 
 <p align="center">
   <img src="marca.jpg" alt="Banner" width="90%"/>
@@ -8,38 +8,33 @@ Soy un **desarrollador web de nivel medio** apasionado por la creación de la au
 
 ---
 
-## 📌 Sobre mí  
+## Sobre mí  
 
-- 💡 Me considero una persona **curiosa** y en constante aprendizaje.  
-- 🔍 Enfocado en escribir código **limpio y mantenible**.  
-- 🤝 Abierto a colaborar en proyectos interesantes y de impacto.
-- ✅ Aprendo con gran agilidad y avanzo en los proyectos aun con variedad de problemas  
-- 🎯 Objetivo: seguir creciendo como desarrollador y especializarme en **Full Stack Development**.  
+- Me considero una persona **curiosa** y en constante aprendizaje.  
+- Enfocado en escribir código **limpio y mantenible**.  
+- Abierto a colaborar en proyectos interesantes y de impacto.
 
 ---
 
-## 🚀 Tecnologías y Herramientas  
+## Tecnologías y Herramientas  
 
-- 🌐 **Frontend:** HTML5, CSS3, JavaScript (ES6+), React  
-- ⚙️ **Backend:** Node.js, PHP  
-- 🗄️ **Bases de datos:** MySQL  
-- 🛠️ **Otras herramientas:** Git, GitHub, VS Code, VS Studio, intelij 
-
----
-
-## 📂 Algunos proyectos  
-
-- 🔗 [Portafolio Personal](https://portafoliogabriel.x10.mx/) – Portafolio con informacion personal y mejores contactos
-- 🔗 [LexyCrochet.web](https://lexy-crochet.web.app/) – Negocio personal de crochet
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React  
+- **Backend:** Node.js, PHP  
+- **Bases de datos:** MySQL  
+- **Otras herramientas:** Git, GitHub, VS Code, VS Studio 
 
 ---
 
-## 📫 Contacto  
+## Algunos proyectos  
 
-- ✉️ **Correo:** alexgrg.123.123@gmail.com
-- 🔗 [alexis.g.r.g](https://www.instagram.com/alexis.g.r.g/) – Cuenta personal de instagram para contacto 
-- 💼 [LinkedIn](#)  
+- [LexyCrochet.web](https://lexy-crochet.web.app/) – Negocio personal de crochet
 
 ---
 
-✨ *Siempre en busca de nuevos retos y oportunidades para mejorar como desarrollador.*  
+## Contacto  
+
+- **Correo:** alexgrg.123.123@gmail.com
+- [alexis.g.r.g](https://www.instagram.com/alexis.g.r.g/) – Cuenta personal de instagram para contacto 
+- [LinkedIn](#)  
+
+---
